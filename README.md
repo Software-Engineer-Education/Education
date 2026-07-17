@@ -10,6 +10,12 @@ This directory contains supplementary materials for reviewer comments related to
 - `CI_slides/`
   Contains slides and result materials related to DevOps and Continuous Integration.
 
+- `Assignment_overview.docx`
+  Provides an overview of the semester-long assignment structure, required deliverables, project constraints, instructional support, and the staged integration of CI activities.
+
+- `Basic_assignments.docx`
+  Contains representative assignment instructions covering project selection, user stories, software architecture and design, GitHub documentation, and Sprint retrospective reporting.
+  
 - `Agile-CI.docx`
   Supplementary document prepared in response to reviewer comments.
 
